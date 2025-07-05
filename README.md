@@ -41,7 +41,7 @@ This project involves the development of a comprehensive Organ Donation Website 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Parthiv070/organ-donation-app
+   https://github.com/Parthiv070/Organ-Donation-System
    ```
 2. **Database Configuration :**
    - Set up a MySQL database and configure the connection in connection.php.
